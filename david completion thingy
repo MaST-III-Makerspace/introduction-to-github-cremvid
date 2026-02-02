@@ -1,0 +1,3 @@
+- Cloning and fforking are very similar, but have their differences.
+Cloning creates a local copy of a repoitory to your device, and possibly sync both.
+Forking on the other hand does the same thing as cloning, but it is used in open source projects and allows multiple people to contribute to it.
